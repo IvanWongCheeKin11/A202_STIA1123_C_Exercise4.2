@@ -81,7 +81,7 @@ class Durian extends Fruit{
     }
 }
 
-class main {
+class Main {
     public static void main(String[] args) {
         Apple a = new Apple("Apple", 0.4);
         System.out.println();
